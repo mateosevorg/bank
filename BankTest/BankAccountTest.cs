@@ -51,6 +51,7 @@ namespace BankTest
             try
             {
                 account.Debit(debitAmount);
+
             }
             catch (ArgumentOutOfRangeException e)
             {
