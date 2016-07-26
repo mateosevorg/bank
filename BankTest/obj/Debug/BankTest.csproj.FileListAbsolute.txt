@@ -1,0 +1,8 @@
+C:\Users\matthew.groves\Desktop\GitHub\Bank\BankTest\bin\Debug\BankTest.dll
+C:\Users\matthew.groves\Desktop\GitHub\Bank\BankTest\bin\Debug\BankTest.pdb
+C:\Users\matthew.groves\Desktop\GitHub\Bank\BankTest\bin\Debug\Bank.dll
+C:\Users\matthew.groves\Desktop\GitHub\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\matthew.groves\Desktop\GitHub\Bank\BankTest\bin\Debug\Bank.pdb
+C:\Users\matthew.groves\Desktop\GitHub\Bank\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
+C:\Users\matthew.groves\Desktop\GitHub\Bank\BankTest\obj\Debug\BankTest.dll
+C:\Users\matthew.groves\Desktop\GitHub\Bank\BankTest\obj\Debug\BankTest.pdb

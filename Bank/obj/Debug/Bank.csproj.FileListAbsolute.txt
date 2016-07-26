@@ -1,0 +1,5 @@
+C:\Users\matthew.groves\Desktop\GitHub\Bank\Bank\bin\Debug\Bank.dll
+C:\Users\matthew.groves\Desktop\GitHub\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\matthew.groves\Desktop\GitHub\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\matthew.groves\Desktop\GitHub\Bank\Bank\obj\Debug\Bank.dll
+C:\Users\matthew.groves\Desktop\GitHub\Bank\Bank\obj\Debug\Bank.pdb
