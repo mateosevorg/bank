@@ -9,6 +9,8 @@ namespace BankAccountNS
     {
         public const string DebitAmountExceedsBalanceMessage = "Debit amount exceeds balanxe";
         public const string DebitAmountLessThanZeroMessage = "Debit amount less than zero";
+        public const string CreditAmountLessThanZeroMessage= "Credit amount less than zero";
+
         private string m_customerName;
 
         private double m_balance;

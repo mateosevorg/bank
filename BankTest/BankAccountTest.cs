@@ -39,7 +39,6 @@ namespace BankTest
             //assert is handled by ExpectedException
         }
         [TestMethod]
-        [ExpectedException(typeof(ArgumentOutOfRangeException))]
         public void Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange()
         {
             //arrange
@@ -51,8 +50,6 @@ namespace BankTest
             try
             {
                 account.Debit(debitAmount);
-
-
             }
             catch (ArgumentOutOfRangeException e)
             {
@@ -61,6 +58,20 @@ namespace BankTest
                 return;
             }
             Assert.Fail("No Exception was thrown");
+        }
+        [TestMethod]
+        [ExpectedException(typeof(ArgumentOutOfRangeException))]
+        public void Credit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange()
+        {
+            //arrange
+            double beginningBalance = 11.99;
+            double creditAmount = 100.00;
+            BankAccount account = new BankAccount("Mr. Bryan Walton", beginningBalance);
+
+            //act
+            account.Credit(creditAmount);
+
+            //assert is handled by ExpectedException
         }
     }
 }
