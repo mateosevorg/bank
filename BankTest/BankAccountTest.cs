@@ -68,6 +68,7 @@ namespace BankTest
             double creditAmount = 100.00;
             BankAccount account = new BankAccount("Mr. Bryan Walton", beginningBalance);
 
+
             //act
             account.Credit(creditAmount);
 
